@@ -59,6 +59,7 @@ const ALLOWED_DOMAINS = new Set([
   "stackblitz.com",
   "val.town",
   "giphy.com",
+  "*" // Allow ALL FUCKING SITES!
 ]);
 
 const ALLOW_SAME_ORIGIN = new Set([
